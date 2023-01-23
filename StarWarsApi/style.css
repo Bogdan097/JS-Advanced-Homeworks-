@@ -1,0 +1,8 @@
+table, th, td {
+    border: 2px solid rgb(222, 16, 16);
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+    color: rgb(9, 93, 51);
+
+  }
